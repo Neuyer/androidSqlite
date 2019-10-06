@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\1d6a9319ca5ebe73913a57dbb12616c8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ab1226298b8c53db24b1c3c5a373289b\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\29efe029e20f7971cb954e4137074758\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\f8456b21bb4567ec87199b1431148076\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\32007f0226e5d6a1192c1102b4e1a0b0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\a7a512c1eafcf8c9244f14120d83a09a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ed3302ee44ac492cb8a357d91f95ff49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e6b3e9fb4e2a7969fe16e0b946ce29e5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\12820b8fcc1718dfa1d551afa72ee633\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\155a9317d6b68cf71565390cedec0452\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\b974c76971023f3e9a2d483656ab7e30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e7bbf530f8a36a874d10e80606943206\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\47e849294ec926871da72f0c5cbcb2a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ec72a2e83e4ebde223e2ef953fcbb038\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\eb4521574a907b8c145af45a383a1154\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\c37855dc8edba2955c202b2fee4dbada\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\0657e04b6a7203ee3c1366f0ca1b4d1a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\3cfc7f7fdd1375efbe0b2e08123a63b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\68daa7b7627a6a316db212aaff280847\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\21e729c1477ac685ce475c20d16d29f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\4d526a692178e9fd430aae85e0578da8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ab1226298b8c53db24b1c3c5a373289b\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ab1226298b8c53db24b1c3c5a373289b\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e7bbf530f8a36a874d10e80606943206\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e7bbf530f8a36a874d10e80606943206\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ec72a2e83e4ebde223e2ef953fcbb038\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ec72a2e83e4ebde223e2ef953fcbb038\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e7bbf530f8a36a874d10e80606943206\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.meuestacionamento.MainActivity
+ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\1d6a9319ca5ebe73913a57dbb12616c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\1d6a9319ca5ebe73913a57dbb12616c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ab1226298b8c53db24b1c3c5a373289b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ab1226298b8c53db24b1c3c5a373289b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\29efe029e20f7971cb954e4137074758\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\29efe029e20f7971cb954e4137074758\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\f8456b21bb4567ec87199b1431148076\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\f8456b21bb4567ec87199b1431148076\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\32007f0226e5d6a1192c1102b4e1a0b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\32007f0226e5d6a1192c1102b4e1a0b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\a7a512c1eafcf8c9244f14120d83a09a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\a7a512c1eafcf8c9244f14120d83a09a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ed3302ee44ac492cb8a357d91f95ff49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ed3302ee44ac492cb8a357d91f95ff49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e6b3e9fb4e2a7969fe16e0b946ce29e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e6b3e9fb4e2a7969fe16e0b946ce29e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\12820b8fcc1718dfa1d551afa72ee633\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\12820b8fcc1718dfa1d551afa72ee633\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\155a9317d6b68cf71565390cedec0452\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\155a9317d6b68cf71565390cedec0452\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\b974c76971023f3e9a2d483656ab7e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\b974c76971023f3e9a2d483656ab7e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e7bbf530f8a36a874d10e80606943206\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\e7bbf530f8a36a874d10e80606943206\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\47e849294ec926871da72f0c5cbcb2a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\47e849294ec926871da72f0c5cbcb2a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ec72a2e83e4ebde223e2ef953fcbb038\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\ec72a2e83e4ebde223e2ef953fcbb038\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\eb4521574a907b8c145af45a383a1154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\eb4521574a907b8c145af45a383a1154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\c37855dc8edba2955c202b2fee4dbada\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\c37855dc8edba2955c202b2fee4dbada\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\0657e04b6a7203ee3c1366f0ca1b4d1a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\0657e04b6a7203ee3c1366f0ca1b4d1a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\3cfc7f7fdd1375efbe0b2e08123a63b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\3cfc7f7fdd1375efbe0b2e08123a63b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\68daa7b7627a6a316db212aaff280847\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\68daa7b7627a6a316db212aaff280847\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\21e729c1477ac685ce475c20d16d29f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\21e729c1477ac685ce475c20d16d29f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\4d526a692178e9fd430aae85e0578da8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ariel.neumeyer\.gradle\caches\transforms-2\files-2.1\4d526a692178e9fd430aae85e0578da8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ariel.neumeyer\AndroidStudioProjects\MeuEstacionamento\app\src\main\AndroidManifest.xml
